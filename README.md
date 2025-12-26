@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/shrirang1009/shrirang1009/blob/main/github-header-image.png?raw=true)
+
 <h1 align="center">Hi 👋, I'm Shrirang</h1>
 <h3 align="center">A passionate DSA and Cloud Learner from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*Y5-c8kiEfGc23KM__zwmNA.gif">
