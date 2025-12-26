@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shrirang Bhende</h1>
 <h3 align="center">
-Software Engineering Intern Aspirant | Backend Developer (Java & Spring Boot)
+ Backend Developer (Java & Spring Boot)
 </h3>
 
 <img align="right" alt="backend coding" width="400"
