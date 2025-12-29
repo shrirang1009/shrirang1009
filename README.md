@@ -60,7 +60,7 @@ src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*Y5-c8kiEfGc23KM__zw
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/geekyshrirang" target="_blank">
+  <a href="https://www.leetcode.com/lJpccBOWm8" target="_blank">
     <img align="center"
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
          height="30" width="40" />
