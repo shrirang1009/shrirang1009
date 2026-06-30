@@ -14,7 +14,7 @@ src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*Y5-c8kiEfGc23KM__zw
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **B.Tech @ VIT Pune** (CGPA: **9.1**)
+- 🎓 **B.Tech @ VIT Pune** (CGPA: **9.24**)
 - 💻 **Backend-focused developer** with strong fundamentals in **Java & Spring Boot**
 - 🔐 Experienced in building **secure REST APIs** using **JWT & Role-Based Access Control**
 - 🗄️ Comfortable with **MySQL, JPA/Hibernate**, and backend data modeling
